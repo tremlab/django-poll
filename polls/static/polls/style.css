@@ -1,8 +1,8 @@
 li a {
-    color: beige;
+    color: yellow;
     font-family: sans-serif;
 }
 
 body {
-    background-color: cadetblue;
+    background: cadetblue url("images/background.gif") no-repeat;;
 }
